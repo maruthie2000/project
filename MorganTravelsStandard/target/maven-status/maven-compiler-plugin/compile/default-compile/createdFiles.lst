@@ -1,0 +1,8 @@
+com\nit\entity\PlanCategory.class
+com\nit\repositroy\ITravelPlanRepository.class
+com\nit\controller\TravelPlanOperationController.class
+com\nit\repositroy\IPlanCategoryRepository.class
+com\nit\service\ITravelPlanService.class
+com\nit\RegistrationApplication.class
+com\nit\service\TravelPlanServiceImpl.class
+com\nit\entity\TravelPlan.class
